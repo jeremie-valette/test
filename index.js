@@ -37,3 +37,5 @@ console.log("Bonjour " + fullName + "." + " Votre age est: " + age + "." + " A b
 var sentence = "Bonjour " + fullName + "." + " Votre age est: " + age + "." + " A bientôt !";
 console.log(sentence);
 
+// CREATION BRANCHE (branche1) avec git checkout -b branche1 puis vérification avec git branche
+
