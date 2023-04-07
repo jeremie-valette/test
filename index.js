@@ -39,3 +39,4 @@ console.log(sentence);
 
 // CREATION BRANCHE (branche1) avec git checkout -b branche1 puis vérification avec git branche
 
+//git remote => exo et master.
